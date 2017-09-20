@@ -13,6 +13,13 @@ public class Main_Demo {
     //psvm
     public static void main(String[] args) {
         //sout
-        System.out.println("Hello, world!");
+        printname();
     }
+    
+    private static void printname() {
+        System.out.println("Linus Torvald");
+    }
+    
+    
 }
+
